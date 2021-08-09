@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wsp-cab/static/css/main.4041cadf.chunk.css",
-    "main.js": "/wsp-cab/static/js/main.95bcc320.chunk.js",
-    "main.js.map": "/wsp-cab/static/js/main.95bcc320.chunk.js.map",
+    "main.js": "/wsp-cab/static/js/main.ad8e13cf.chunk.js",
+    "main.js.map": "/wsp-cab/static/js/main.ad8e13cf.chunk.js.map",
     "runtime-main.js": "/wsp-cab/static/js/runtime-main.0998e9c1.js",
     "runtime-main.js.map": "/wsp-cab/static/js/runtime-main.0998e9c1.js.map",
     "static/js/2.8b9d98d4.chunk.js": "/wsp-cab/static/js/2.8b9d98d4.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.8b9d98d4.chunk.js.LICENSE.txt": "/wsp-cab/static/js/2.8b9d98d4.chunk.js.LICENSE.txt",
     "static/media/chat.98ae9641.svg": "/wsp-cab/static/media/chat.98ae9641.svg",
     "static/media/client.cb8e04e6.svg": "/wsp-cab/static/media/client.cb8e04e6.svg",
+    "static/media/coupon.0e5576c1.svg": "/wsp-cab/static/media/coupon.0e5576c1.svg",
     "static/media/error.3f335319.svg": "/wsp-cab/static/media/error.3f335319.svg",
     "static/media/faq.28fa562e.svg": "/wsp-cab/static/media/faq.28fa562e.svg",
     "static/media/logo_black.35361c7b.svg": "/wsp-cab/static/media/logo_black.35361c7b.svg",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.0998e9c1.js",
     "static/js/2.8b9d98d4.chunk.js",
     "static/css/main.4041cadf.chunk.css",
-    "static/js/main.95bcc320.chunk.js"
+    "static/js/main.ad8e13cf.chunk.js"
   ]
 }
