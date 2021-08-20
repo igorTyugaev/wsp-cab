@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/wsp-cab/static/css/main.4a7c2500.chunk.css",
-    "main.js": "/wsp-cab/static/js/main.b120cc9f.chunk.js",
-    "main.js.map": "/wsp-cab/static/js/main.b120cc9f.chunk.js.map",
+    "main.css": "/wsp-cab/static/css/main.3e9a7e16.chunk.css",
+    "main.js": "/wsp-cab/static/js/main.972b5b44.chunk.js",
+    "main.js.map": "/wsp-cab/static/js/main.972b5b44.chunk.js.map",
     "runtime-main.js": "/wsp-cab/static/js/runtime-main.0998e9c1.js",
     "runtime-main.js.map": "/wsp-cab/static/js/runtime-main.0998e9c1.js.map",
-    "static/js/2.736bcf44.chunk.js": "/wsp-cab/static/js/2.736bcf44.chunk.js",
-    "static/js/2.736bcf44.chunk.js.map": "/wsp-cab/static/js/2.736bcf44.chunk.js.map",
+    "static/js/2.dc5b1890.chunk.js": "/wsp-cab/static/js/2.dc5b1890.chunk.js",
+    "static/js/2.dc5b1890.chunk.js.map": "/wsp-cab/static/js/2.dc5b1890.chunk.js.map",
     "index.html": "/wsp-cab/index.html",
-    "static/css/main.4a7c2500.chunk.css.map": "/wsp-cab/static/css/main.4a7c2500.chunk.css.map",
-    "static/js/2.736bcf44.chunk.js.LICENSE.txt": "/wsp-cab/static/js/2.736bcf44.chunk.js.LICENSE.txt",
+    "static/css/main.3e9a7e16.chunk.css.map": "/wsp-cab/static/css/main.3e9a7e16.chunk.css.map",
+    "static/js/2.dc5b1890.chunk.js.LICENSE.txt": "/wsp-cab/static/js/2.dc5b1890.chunk.js.LICENSE.txt",
     "static/media/arrow-back.5fdd1a4d.svg": "/wsp-cab/static/media/arrow-back.5fdd1a4d.svg",
     "static/media/chat.98ae9641.svg": "/wsp-cab/static/media/chat.98ae9641.svg",
     "static/media/client.cb8e04e6.svg": "/wsp-cab/static/media/client.cb8e04e6.svg",
     "static/media/coupon.0e5576c1.svg": "/wsp-cab/static/media/coupon.0e5576c1.svg",
+    "static/media/done.87612b63.svg": "/wsp-cab/static/media/done.87612b63.svg",
     "static/media/dots-menu.f7e2f760.svg": "/wsp-cab/static/media/dots-menu.f7e2f760.svg",
+    "static/media/download.ce511bc5.svg": "/wsp-cab/static/media/download.ce511bc5.svg",
     "static/media/error.3f335319.svg": "/wsp-cab/static/media/error.3f335319.svg",
     "static/media/faq.28fa562e.svg": "/wsp-cab/static/media/faq.28fa562e.svg",
     "static/media/logo_black.35361c7b.svg": "/wsp-cab/static/media/logo_black.35361c7b.svg",
@@ -23,12 +25,13 @@
     "static/media/not-found.e53fb63c.svg": "/wsp-cab/static/media/not-found.e53fb63c.svg",
     "static/media/plus.af2dc83a.svg": "/wsp-cab/static/media/plus.af2dc83a.svg",
     "static/media/profile.eebef905.svg": "/wsp-cab/static/media/profile.eebef905.svg",
-    "static/media/union.9d2fb3a4.svg": "/wsp-cab/static/media/union.9d2fb3a4.svg"
+    "static/media/union.9d2fb3a4.svg": "/wsp-cab/static/media/union.9d2fb3a4.svg",
+    "static/media/upload.a4978183.svg": "/wsp-cab/static/media/upload.a4978183.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0998e9c1.js",
-    "static/js/2.736bcf44.chunk.js",
-    "static/css/main.4a7c2500.chunk.css",
-    "static/js/main.b120cc9f.chunk.js"
+    "static/js/2.dc5b1890.chunk.js",
+    "static/css/main.3e9a7e16.chunk.css",
+    "static/js/main.972b5b44.chunk.js"
   ]
 }
